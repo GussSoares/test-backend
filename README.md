@@ -13,7 +13,7 @@ Veja o arquivo [test-backend.pdf](static/test-backend.pdf)
 Acima podemos ver o diagrama da tabela `parking` criada para armazenar os dados do estacionamento
 
 ## Execução
-O projeto utiliza [Docker](https://www.docker.com/) e Makefile, logo, basta executar:
+O projeto utiliza [Docker](https://www.docker.com/) e [Makefile](https://www.gnu.org/software/make/), logo, basta executar:
 
 ```sh
 make run

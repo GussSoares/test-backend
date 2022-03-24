@@ -19,3 +19,9 @@ O projeto utiliza [Docker](https://www.docker.com/) e Makefile, logo, basta exec
 make run
 ```
 Este comando gerar um build e subir os containers definidos no arquivo `docker-compose.yml`.
+
+## Testando
+Para rodar os testes, execure o comando abaixo:
+```sh
+make test
+```
